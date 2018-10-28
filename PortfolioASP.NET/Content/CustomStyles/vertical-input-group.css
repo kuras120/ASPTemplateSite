@@ -1,0 +1,13 @@
+﻿.input-group-vertical {
+    margin-bottom: 10px;
+}
+
+.input-group-vertical .input-group {
+    margin-bottom: 0;
+}
+
+.input-group-vertical .input-group:not(:last-child) .form-control:not(:focus),
+.input-group-vertical .input-group:not(:last-child) .input-group-prepend .input-group-text {
+    border-bottom-color: transparent;
+}
+

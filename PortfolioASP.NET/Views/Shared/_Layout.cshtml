@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"></button>
+            @Html.ActionLink("Portfolio", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <div class="navbar-collapse collapse" id="navbarSupportedContent">
+
+                <ul class="nav navbar-nav mr-auto">
+                    <li><a href="@Url.Action("Index", "Home")" class="nav-link @(ViewBag.Active == "Home" ? "active" : "")"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="@Url.Action("About", "Home")" class="nav-link @(ViewBag.Active == "About" ? "active" : "")"><i class="fa"></i> About</a></li>
+                    <li><a href="@Url.Action("Contact", "Home")" class="nav-link @(ViewBag.Active == "Contact" ? "active" : "")"><i class="fa"></i> Contact</a></li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right ml-auto">
+                    <li><a href="#" class="nav-link" data-toggle="modal" data-target="#loginModal"><i class="fa fa-arrow-right"></i> Sign In</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    {@Html.Partial("Login")}
+    <div class="container body-content">
+        @RenderBody()
+        <hr class="my-4">
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Wojciech Kur ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    @if (ViewBag.ShowModal != null)
+    {
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var login = $('#loginModal');
+                login.removeClass('fade');
+                login.modal();
+                login.addClass('fade');
+
+            });
+        </script>
+
+        ViewBag.ShowModal = null;
+    }
+</body>
+</html>

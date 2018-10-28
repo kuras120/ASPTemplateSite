@@ -1,0 +1,11 @@
+﻿@{
+    var session = Session["UserID"];
+    if(session != null)
+    {
+        Layout = "~/Views/Shared/_LayoutUser.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+}

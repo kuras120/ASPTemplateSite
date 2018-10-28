@@ -1,0 +1,13 @@
+﻿/*custom invalid input*/
+.input-border .form-control:focus {
+    -webkit-box-shadow: inset 0px 0px 3px 2px rgba(0,9,255,0.6);
+    -moz-box-shadow: inset 0px 0px 3px 2px rgba(0,9,255,0.6);
+    box-shadow: inset 0px 0px 3px 2px rgba(0,9,255,0.6);
+}
+
+.input-border input:invalid:not(:focus) {
+    border-color: red !important;
+    -webkit-box-shadow: inset 0px 0px 3px 0px rgba(255,0,17,1);
+    -moz-box-shadow: inset 0px 0px 3px 0px rgba(255,0,17,1);
+    box-shadow: inset 0px 0px 3px 0px rgba(255,0,17,1);
+}
