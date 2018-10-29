@@ -190,6 +190,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Auth\ConfigEncryption.cs" />
     <Compile Include="BLL\UserUtilities\Interfaces\ILogIn.cs" />
     <Compile Include="BLL\UserUtilities\Interfaces\IRegister.cs" />
     <Compile Include="BLL\UserUtilities\Managers\UserManager.cs" />

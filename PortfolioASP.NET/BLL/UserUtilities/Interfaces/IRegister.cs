@@ -9,7 +9,7 @@ namespace PortfolioASP.NET.BLL.UserUtilities.Interfaces
 {
     interface IRegister
     {
-        bool Validate(string username, string password, string email);
+        bool Validate(string username);
         void AddUser(string username, string password, string email);
         
     }

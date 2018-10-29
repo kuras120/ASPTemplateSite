@@ -16,13 +16,11 @@ namespace PortfolioASP.NET.DAL
     public class DataManager
     {
         private DataModel context;
-        private FileWriter writer;
         private Random rand;
         private static NLog.Logger logger;
         public DataManager()
         {
             context = new DataModel();
-            writer = new FileWriter();
             rand = new Random();
             logger = NLog.LogManager.GetCurrentClassLogger();
         }

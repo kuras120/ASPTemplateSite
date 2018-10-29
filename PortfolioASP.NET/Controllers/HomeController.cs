@@ -60,7 +60,7 @@ namespace PortfolioASP.NET.Controllers
                 return View("Register", model);
             }
             var register = (IRegister)UserManager.Instance;
-            if (!register.Validate(model.RegisterModel.Login, model.RegisterModel.Password, model.RegisterModel.Email))
+            if (!register.Validate(model.RegisterModel.Login))
             {
                 ModelState.AddModelError("", "User already exists");
                 return View("Register");

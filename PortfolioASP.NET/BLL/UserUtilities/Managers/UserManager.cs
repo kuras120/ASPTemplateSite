@@ -45,7 +45,7 @@ namespace PortfolioASP.NET.BLL.UserUtilities
             }
             else return false;
         }
-        bool IRegister.Validate(string username, string password, string email)
+        bool IRegister.Validate(string username)
         {
             var user = getData.getEntity(x => x.Login == username);
             if (user == null)
