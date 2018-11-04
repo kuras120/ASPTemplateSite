@@ -332,3 +332,5 @@ ASALocalRun/
 PortfolioASP\.NET/Web\.Debug\.config
 
 PortfolioASP\.NET/Web\.Release\.config
+
+PortfolioASP\.NET/logs\.txt

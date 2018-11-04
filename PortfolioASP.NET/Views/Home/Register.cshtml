@@ -5,7 +5,7 @@
 }
 <br />
 <div class="row">
-    <div class="col-6">
+    <div class="col-md-6 col-sm-12">
         <div class="jumbotron">
             <h3 class="text-center">Register</h3>
             <hr style="border : 0; height: 1px;
@@ -26,40 +26,45 @@
                     @Html.LabelFor(m => m.RegisterModel.Password, "Password", new { @class = "offset-1" })
                     @Html.PasswordFor(m => m.RegisterModel.Password, new { @class = "form-control rounded-0 col-10 offset-1" })
                 </div>
+                //TODO fix that shiet
                 <!--wider than phones-->
                 <div class="row">
-                    <div class="col-6 offset-1 d-none d-md-block">
+                    <div class="col-12 col-md-6 offset-1">
                         <div class="form-check">
                             @Html.CheckBoxFor(m => m.RegisterModel.AcceptTerms, new { @class = "form-check-input"})
                             <label class="form-check-label" for="acceptRules"><small class="text-muted">Agree<a href="@Url.Action("Terms", "Home")" class="card-link"> Terms and Conditions</a></small></label>
                         </div>
-                        <small id="helper" class="form-text text-muted">We will never share your personal data with anyone.</small>
+                        <small id="helper" class="form-text text-muted d-none d-md-block">We will never share your personal data with anyone.</small>
                     </div>
-                    <div class="col-4 d-none d-md-block">
-                        <button type="submit" class="btn btn-primary float-right">Submit</button>
-                    </div>
-                    <div class="offset-1">
+                    <div class="col-10 offset-1 col-md-3 offset-md-1">
+                        <button type="submit" class="btn btn-primary float-right col-12">Submit</button>
                     </div>
                 </div>
                 <!--END-->
 
-                <!--Only for phones-->
+                @*<!--Only for phones-->
                 <div class="row">
-                    <div class="col-10 offset-1 d-md-none">
+                    <div class="col-12 d-md-none">
                         <div class="row">
-                            <div class="form-check col-10 offset-1" style="margin-bottom: 10px;">
-                                @Html.CheckBoxFor(m => m.RegisterModel.AcceptTerms, new { @class = "form-check-input" })
-                                <label class="form-check-label" for="acceptRules"><small class="text-muted">Agree<a href="@Url.Action("Terms", "Home")" class="card-link"> Terms and Conditions</a></small></label>
+                            <div class="col-10 offset-1">
+                                <div class="form-check" style="margin-bottom: 10px;">
+                                    @Html.CheckBoxFor(m => m.RegisterModel.AcceptTerms, new { @class = "form-check-input" })
+                                    <label class="form-check-label" for="acceptRules"><small class="text-muted">Agree<a href="@Url.Action("Terms", "Home")" class="card-link"> Terms and Conditions</a></small></label>
+                                </div>
                             </div>
-                            <button type="submit" class="btn btn-primary col-10 offset-1" onclick="@(Url.Action("SubmitRegister", "Home"))">Submit</button>
+                        </div>
+                        <div class="row">
+                            <div class="col-10 offset-1">
+                                <button type="submit" class="btn btn-primary col-12">Submit</button>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!--END-->
+                <!--END-->*@
             }
         </div>
     </div>
-    <div class="col-6">
+    <div class="col-md-6 d-none d-md-block">
         <div class="jumbotron">
             <h3 class="text-center">Hints</h3>
             <hr style="border : 0; height: 1px;
