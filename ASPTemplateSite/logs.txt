@@ -1,0 +1,101 @@
+2019-07-14 15:52:36.6967|INFO|PortfolioASP.NET.DAL.DataManager|Created user0
+2019-07-14 15:52:37.4679|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.5169|INFO|PortfolioASP.NET.DAL.DataManager|Created user1
+2019-07-14 15:52:37.5669|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.5739|INFO|PortfolioASP.NET.DAL.DataManager|Created user2
+2019-07-14 15:52:37.6193|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.6263|INFO|PortfolioASP.NET.DAL.DataManager|Created user3
+2019-07-14 15:52:37.6823|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.6893|INFO|PortfolioASP.NET.DAL.DataManager|Created user4
+2019-07-14 15:52:37.7353|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.7643|INFO|PortfolioASP.NET.DAL.DataManager|Created user5
+2019-07-14 15:52:37.8123|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.8123|INFO|PortfolioASP.NET.DAL.DataManager|Created user6
+2019-07-14 15:52:37.8692|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.8822|INFO|PortfolioASP.NET.DAL.DataManager|Created user7
+2019-07-14 15:52:37.9344|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.9344|INFO|PortfolioASP.NET.DAL.DataManager|Created user8
+2019-07-14 15:52:37.9884|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:52:37.9974|INFO|PortfolioASP.NET.DAL.DataManager|Created user9
+2019-07-14 15:52:38.0533|ERROR|PortfolioASP.NET.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-14 15:55:38.8218|INFO|PortfolioASP.NET.BLL.UserUtilities.UserManager|Created admin
+2019-07-14 17:45:50.9902|INFO|PortfolioASP.NET.DAL.DataManager|Created user0
+2019-07-14 17:45:51.1929|INFO|PortfolioASP.NET.DAL.DataManager|Created user1
+2019-07-14 17:45:51.2279|INFO|PortfolioASP.NET.DAL.DataManager|Created user2
+2019-07-14 17:45:51.2649|INFO|PortfolioASP.NET.DAL.DataManager|Created user3
+2019-07-14 17:45:51.3056|INFO|PortfolioASP.NET.DAL.DataManager|Created user4
+2019-07-14 17:45:51.3426|INFO|PortfolioASP.NET.DAL.DataManager|Created user5
+2019-07-14 17:45:51.3866|INFO|PortfolioASP.NET.DAL.DataManager|Created user6
+2019-07-14 17:45:51.4745|INFO|PortfolioASP.NET.DAL.DataManager|Created user7
+2019-07-14 17:45:51.5205|INFO|PortfolioASP.NET.DAL.DataManager|Created user8
+2019-07-14 17:45:51.5615|INFO|PortfolioASP.NET.DAL.DataManager|Created user9
+2019-07-18 15:10:45.9960|INFO|ASPTemplateSite.DAL.DataManager|Created user0
+2019-07-18 15:10:46.5071|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:46.5151|INFO|ASPTemplateSite.DAL.DataManager|Created user1
+2019-07-18 15:10:46.5698|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:46.5698|INFO|ASPTemplateSite.DAL.DataManager|Created user2
+2019-07-18 15:10:46.6686|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:46.6686|INFO|ASPTemplateSite.DAL.DataManager|Created user3
+2019-07-18 15:10:46.7256|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:46.7306|INFO|ASPTemplateSite.DAL.DataManager|Created user4
+2019-07-18 15:10:46.7755|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:46.7755|INFO|ASPTemplateSite.DAL.DataManager|Created user5
+2019-07-18 15:10:46.8315|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:46.8385|INFO|ASPTemplateSite.DAL.DataManager|Created user6
+2019-07-18 15:10:46.8885|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:46.8885|INFO|ASPTemplateSite.DAL.DataManager|Created user7
+2019-07-18 15:10:46.9484|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:46.9484|INFO|ASPTemplateSite.DAL.DataManager|Created user8
+2019-07-18 15:10:47.0044|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:10:47.0114|INFO|ASPTemplateSite.DAL.DataManager|Created user9
+2019-07-18 15:10:47.0584|ERROR|ASPTemplateSite.DAL.DataManager|Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+2019-07-18 15:12:32.3703|INFO|ASPTemplateSite.DAL.DataManager|Created user0
+2019-07-18 15:12:32.5992|INFO|ASPTemplateSite.DAL.DataManager|Created user1
+2019-07-18 15:12:32.6701|INFO|ASPTemplateSite.DAL.DataManager|Created user2
+2019-07-18 15:12:32.7411|INFO|ASPTemplateSite.DAL.DataManager|Created user3
+2019-07-18 15:12:32.8151|INFO|ASPTemplateSite.DAL.DataManager|Created user4
+2019-07-18 15:12:32.8790|INFO|ASPTemplateSite.DAL.DataManager|Created user5
+2019-07-18 15:12:32.9450|INFO|ASPTemplateSite.DAL.DataManager|Created user6
+2019-07-18 15:12:33.0229|INFO|ASPTemplateSite.DAL.DataManager|Created user7
+2019-07-18 15:12:33.0869|INFO|ASPTemplateSite.DAL.DataManager|Created user8
+2019-07-18 15:12:33.1549|INFO|ASPTemplateSite.DAL.DataManager|Created user9
+2019-07-18 15:14:11.8662|INFO|ASPTemplateSite.DAL.DataManager|Created user0
+2019-07-18 15:14:12.0891|INFO|ASPTemplateSite.DAL.DataManager|Created user1
+2019-07-18 15:14:12.1531|INFO|ASPTemplateSite.DAL.DataManager|Created user2
+2019-07-18 15:14:12.2260|INFO|ASPTemplateSite.DAL.DataManager|Created user3
+2019-07-18 15:14:12.3229|INFO|ASPTemplateSite.DAL.DataManager|Created user4
+2019-07-18 15:14:12.3908|INFO|ASPTemplateSite.DAL.DataManager|Created user5
+2019-07-18 15:14:12.4798|INFO|ASPTemplateSite.DAL.DataManager|Created user6
+2019-07-18 15:14:12.5667|INFO|ASPTemplateSite.DAL.DataManager|Created user7
+2019-07-18 15:14:12.7346|INFO|ASPTemplateSite.DAL.DataManager|Created user8
+2019-07-18 15:14:12.8274|INFO|ASPTemplateSite.DAL.DataManager|Created user9
+2019-07-18 15:17:56.9961|INFO|ASPTemplateSite.DAL.DataManager|Created user0
+2019-07-18 15:17:57.3255|INFO|ASPTemplateSite.DAL.DataManager|Created user1
+2019-07-18 15:17:57.4155|INFO|ASPTemplateSite.DAL.DataManager|Created user2
+2019-07-18 15:17:57.4905|INFO|ASPTemplateSite.DAL.DataManager|Created user3
+2019-07-18 15:17:57.5565|INFO|ASPTemplateSite.DAL.DataManager|Created user4
+2019-07-18 15:17:57.6761|INFO|ASPTemplateSite.DAL.DataManager|Created user5
+2019-07-18 15:17:57.8381|INFO|ASPTemplateSite.DAL.DataManager|Created user6
+2019-07-18 15:17:57.9900|INFO|ASPTemplateSite.DAL.DataManager|Created user7
+2019-07-18 15:17:58.2088|INFO|ASPTemplateSite.DAL.DataManager|Created user8
+2019-07-18 15:17:58.3068|INFO|ASPTemplateSite.DAL.DataManager|Created user9
+2019-07-18 15:21:34.5545|INFO|ASPTemplateSite.DAL.DataManager|Created user0
+2019-07-18 15:21:34.9473|INFO|ASPTemplateSite.DAL.DataManager|Created user1
+2019-07-18 15:21:35.0722|INFO|ASPTemplateSite.DAL.DataManager|Created user2
+2019-07-18 15:21:35.1662|INFO|ASPTemplateSite.DAL.DataManager|Created user3
+2019-07-18 15:21:35.3770|INFO|ASPTemplateSite.DAL.DataManager|Created user4
+2019-07-18 15:21:35.4580|INFO|ASPTemplateSite.DAL.DataManager|Created user5
+2019-07-18 15:21:35.5789|INFO|ASPTemplateSite.DAL.DataManager|Created user6
+2019-07-18 15:21:35.6798|INFO|ASPTemplateSite.DAL.DataManager|Created user7
+2019-07-18 15:21:35.9009|INFO|ASPTemplateSite.DAL.DataManager|Created user8
+2019-07-18 15:21:36.0439|INFO|ASPTemplateSite.DAL.DataManager|Created user9
+2019-07-18 15:24:18.8123|INFO|ASPTemplateSite.DAL.DataManager|Created user0
+2019-07-18 15:24:19.8486|INFO|ASPTemplateSite.DAL.DataManager|Created user1
+2019-07-18 15:24:20.2823|INFO|ASPTemplateSite.DAL.DataManager|Created user2
+2019-07-18 15:24:20.5342|INFO|ASPTemplateSite.DAL.DataManager|Created user3
+2019-07-18 15:24:20.8935|INFO|ASPTemplateSite.DAL.DataManager|Created user4
+2019-07-18 15:24:21.3243|INFO|ASPTemplateSite.DAL.DataManager|Created user5
+2019-07-18 15:24:21.6232|INFO|ASPTemplateSite.DAL.DataManager|Created user6
+2019-07-18 15:24:21.8736|INFO|ASPTemplateSite.DAL.DataManager|Created user7
+2019-07-18 15:24:22.2883|INFO|ASPTemplateSite.DAL.DataManager|Created user8
+2019-07-18 15:24:22.5852|INFO|ASPTemplateSite.DAL.DataManager|Created user9
